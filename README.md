@@ -77,5 +77,5 @@ Plotly was used to create interactive visualizations, such as scatter plots for 
 Kaplan-Meier survival curves were used to estimate survival probabilities over time, considering factors like age.
 ![newplot (1)](https://github.com/user-attachments/assets/4959f464-7c4c-4153-83c7-50defd983272)
 
-### Contributing
+### Contribution
 Contributions are welcome! If you have any improvements or suggestions, feel free to submit a pull request or open an issue.
